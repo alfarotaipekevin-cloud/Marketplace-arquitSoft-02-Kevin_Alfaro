@@ -1,9 +1,13 @@
 # Marketplace de productos para mascotas
-## nombre
-Integrante 1
+
+## Integrante
+Kevin Alfaro Taipe
+
 ## Descripción
 Marketplace académico de productos para mascotas.
+
 ## Caso de estudio
 GoPet como referencia funcional.
+
 ## Curso
-Arquitectura de Software
+Arquitectura de Software [IS-488] - UNSCH
